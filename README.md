@@ -1,34 +1,45 @@
-# covid19_data_insights
-# 🦠 COVID-19 Data Analysis & Forecasting
+# 🦠 COVID-19 Data Analysis Dashboard (Power BI)
 
-A data-driven project focused on analyzing and forecasting the global impact of COVID-19 using Python, machine learning, and interactive data visualizations. The project includes statistical insights, trend predictions.
+## 📌 Project Overview  
+This project presents an *interactive dashboard* developed in *Microsoft Power BI* to analyze the global impact of COVID-19.  
+It provides *data-driven insights* on Confirmed, Active, Recovered, and Death cases through clear visualizations and interactive exploration.  
 
----
-
-## 📌 Project Overview
-
-This project explores COVID-19 data with the following key goals:
-- Analyze global trends in confirmed, recovered, active, and death cases
-- Visualize recovery and death rates over time
-- Predict future case trends using machine learning algorithms
-- Provide an interactive user interface for real-time exploration
+The project demonstrates my expertise in:  
+- 📊 Data Analysis & Storytelling  
+- ⚡ DAX (Data Analysis Expressions)  
+- 🛠 Power BI Dashboard Design  
+- 🔍 Data Cleaning & Transformation  
 
 ---
 
-## 📈 Features
-
-- 📊 *Interactive Visualizations* – Time-series plots, bar charts, and comparative country analysis
-- 🧠 *Predictive Modeling* – Machine learning models to forecast confirmed, death, and recovery counts
-- 💡 *Insight Generation* – Death rate, recovery rate, and top affected countries
-- 📁 *Modular Codebase* – Clean and well-organized for easy understanding and scalability
+## 🎯 Objectives  
+- Convert raw COVID-19 data into actionable insights  
+- Highlight *global trends* and *country-wise breakdowns*  
+- Provide a dashboard that supports *interactive analysis*  
+- Strengthen *business intelligence & visualization skills*  
 
 ---
 
-## 🧪 Technologies Used
+## 🛠 Tools & Technologies  
+- *Power BI Desktop* – Data visualization & dashboard development  
+- *DAX* – Custom measures and KPIs  
+- *Power Query* – Data cleaning and transformation  
+- *CSV Dataset* – COVID-19 daily case updates  
 
-- *Programming Language:* Python  
-- *Data Analysis:* Pandas, NumPy  
-- *Visualization:* Matplotlib, Seaborn, Plotly  
-- *Machine Learning:* Scikit-learn    
-- *IDE:* Jupyter Notebook / VS Code  
+
+
+## 📊 Dashboard Features  
+✔ Global summary cards (Confirmed, Active, Recovered, Deaths)  
+✔ Trend analysis (date-wise COVID-19 progression)  
+✔ Country & region-wise comparison  
+✔ Interactive filters and slicers  
+✔ Minimal, professional design for clarity  
+
+---
+
+## 📂 Dataset  
+The dataset was sourced from:  https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+  
+  
+
 
