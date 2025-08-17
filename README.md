@@ -76,7 +76,7 @@ Data Source: Global COVID-19 dataset (from Kaggle / public datasets)
 
 ## 👤 Author
 *Samarth Kokate*  
-- GitHub: [https://github.com/s56874](https://github.com/s56874)  
+- GitHub: https://github.com/s56874  
 - LinkedIn:https://www.linkedin.com/in/samarth-kokate-b696ab348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: samarthkokate555@gmail.com
 
