@@ -1,48 +1,63 @@
-# 🦠 COVID-19 Data Analysis Dashboard (Power BI)
 
-## 📌 Project Overview  
-This project presents an *interactive dashboard* developed in *Microsoft Power BI* to analyze the global impact of COVID-19.  
-It provides *data-driven insights* on Confirmed, Active, Recovered, and Death cases through clear visualizations and interactive exploration.  
+# COVID-19 Data Analysis & Prediction Dashboard
 
-The project demonstrates my expertise in:  
-- 📊 Data Analysis & Storytelling  
-- ⚡ DAX (Data Analysis Expressions)  
-- 🛠 Power BI Dashboard Design  
-- 🔍 Data Cleaning & Transformation  
+## 🌍 Overview
+A comprehensive project to *analyze and forecast global COVID-19 cases*.  
+It uses *Python* for data analysis and machine learning and *Power BI* for interactive visualizations.
 
 ---
 
-## 🎯 Objectives  
-- Convert raw COVID-19 data into actionable insights  
-- Highlight *global trends* and *country-wise breakdowns*  
-- Provide a dashboard that supports *interactive analysis*  
-- Strengthen *business intelligence & visualization skills*  
+## 🛠 Key Features
+- Analyze confirmed, recovered, active, and death cases worldwide  
+- Predict future COVID-19 cases using machine learning  
+- Interactive Power BI dashboard: KPIs, trend lines, top affected countries, and distribution charts  
+- Dynamic filters to explore data by country and date  
 
 ---
 
-## 🛠 Tools & Technologies  
-- *Power BI Desktop* – Data visualization & dashboard development  
-- *DAX* – Custom measures and KPIs  
-- *Power Query* – Data cleaning and transformation  
-- *CSV Dataset* – COVID-19 daily case updates  
-
-
-
-## 📊 Dashboard Features  
-✔ Global summary cards (Confirmed, Active, Recovered, Deaths)  
-✔ Trend analysis (date-wise COVID-19 progression)  
-✔ Country & region-wise comparison  
-✔ Interactive filters and slicers  
-✔ Minimal, professional design for clarity  
+## 📁 Repository Files
+- covid_19_data_analysis.ipynb – Python notebook for data analysis  
+- covid19dashboard.pbix – Power BI dashboard file  
+- images/ – Dashboard screenshots  
 
 ---
 
-## 📂 Dataset  
-The dataset was sourced from:  https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+## ⚡ Usage
+1. Clone the repository:  
+```bash
+git clone https://github.com/s56874/covid19_data_insights.git
+
+2. Install dependencies:
 
 
-## Power BI Dashboard - https://app.powerbi.com/groups/me/reports/8d535c8a-0261-48e0-a641-f99278c2042c/11581f26354312c927ba?experience=power-bi
-  
-  
 
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+3. Run the notebook in Jupyter or VS Code.
+
+
+4. Open the .pbix file in Power BI to explore the interactive dashboard.
+
+
+
+
+---
+
+📊 Screenshot
+
+
+
+
+---
+
+🔗 Project Link
+
+GitHub Repository
+
+
+---
+
+🏷 Technologies
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI
 
