@@ -1,6 +1,6 @@
 
 
-# COVID-19 Data Analysis & Prediction Dashboard
+# COVID-19 Data Analysis & Power BI Dashboard
 
 ## 🌐 Project Overview
 
