@@ -77,3 +77,4 @@ map_fig = px.choropleth(
     title="Global COVID-19 Confirmed Cases"
 )
 st.plotly_chart(map_fig, use_container_width=True)
+
