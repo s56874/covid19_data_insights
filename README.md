@@ -2,18 +2,18 @@
 
 # COVID-19 Data Analysis & Power BI Dashboard
 
-## 🌐 Project Overview
+##  Project Overview
 
 The *COVID-19 Data Analysis & Prediction Dashboard* is an end-to-end analytical solution for monitoring, understanding, and forecasting the global progression of the COVID-19 pandemic. This project integrates robust data engineering, exploratory data analysis (EDA), machine learning forecasting, and business intelligence visualization to derive actionable insights that assist researchers, policymakers, and the public in comprehending pandemic trends and preparing for potential future outbreaks.
 
-## 🎯 Objectives
+##  Objectives
 
 - To consolidate and analyze global COVID-19 time-series data focusing on confirmed, recovered, active, and death cases.  
 - To implement predictive models that forecast case trajectories, enabling proactive healthcare and policy planning.  
 - To build an interactive, user-friendly dashboard that visualizes key metrics dynamically across countries and timelines.  
 - To demonstrate data science best practices in public health analytics and communicate insights effectively.
 
-## 📊 Features & Capabilities
+##  Features & Capabilities
 
 ### Data Analysis  
 - Time-series exploration of COVID-19 metrics including cumulative and daily counts.  
@@ -32,7 +32,7 @@ The *COVID-19 Data Analysis & Prediction Dashboard* is an end-to-end analytical 
   - Bar and pie charts highlighting top 10 most affected countries.  
   - User-friendly interface to facilitate exploratory analysis by non-technical stakeholders.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 covid19_data_insights/
@@ -42,13 +42,13 @@ covid19_data_insights/
 ├─ README.md                        # Project documentation and usage guide  
 ```
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) for data processing, visualization, and modeling.  
 - **Business Intelligence:** Microsoft Power BI for creating interactive dashboards and reports.  
 - **Data Sources:** Publicly available COVID-19 datasets from Kaggle, Our World in Data, and Johns Hopkins CSSE repositories ensuring data reliability and completeness.
 
-## 🚀 Installation & Execution Guide
+##  Installation & Execution Guide
 
 ### 1. Clone the Repository  
 ```bash
@@ -70,7 +70,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Open `covid19dashboard.pbix` with Power BI Desktop.  
 - Interact with the dashboard using slicers to explore datasets by country, timeline, and various metrics.
 
-## 🔍 Methodology
+##  Methodology
 
 ### Data Preparation & Cleaning  
 - Imported raw time-series datasets detailing COVID-19 case counts by country and date.  
@@ -92,14 +92,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Aggregated KPIs summarize pandemic status, while graphical representations reveal intricate temporal and spatial patterns.  
 - Dashboard designed for clarity and intuitiveness, facilitating data-driven decisions.
 
-## 📈 Key Insights & Impact
+##  Key Insights & Impact
 
 - Monitored and compared COVID-19 impact across countries, highlighting disproportionate effects.  
 - Tracked improvement or deterioration in recovery and death rates, providing indicators of healthcare system performance.  
 - Forecasts enable anticipation of infection surges, supporting timely interventions.  
 - Interactive visuals democratize access to complex epidemiological data for diverse stakeholders.
 
-## 🔜 Future Development
+##  Future Development
 
 - Automate ingestion of live data via APIs from sources like Our World in Data for real-time updates.  
 - Integrate advanced time-series forecasting models such as Prophet or LSTM neural networks to improve prediction accuracy.  
@@ -107,14 +107,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Incorporate uncertainty quantification and scenario analysis for richer forecasting insights.  
 - Strengthen reproducibility by containerizing environment with Docker and adding CI/CD for scheduled updates.
 
-## ⚠️ Limitations & Ethical Considerations
+##  Limitations & Ethical Considerations
 
 - Forecasts are probabilistic and depend on past trends; unforeseen policy changes or virus mutations may alter future trajectories.  
 - Data completeness and reporting standards vary by country, impacting accuracy.  
 - The dashboard is a decision-support tool and should be complemented with expert domain knowledge.  
 - Responsible data use and privacy considerations observed by using only publicly available aggregated data.
 
-## 🙋♂️ About the Author
+##  About the Author
 
 Samarth Kokate is a Computer Science Engineering student specializing in Data Science, with a passion for leveraging AI and analytics to tackle public health challenges.
 
